@@ -1,1 +1,2 @@
 This is a simple live code editor that allows you to write HTML, CSS, and JavaScript code and see the results instantly.There are 3 separate sections for the HTML, CSS and Javascript codes on the left side. You can see the live preview of the code changes on the output iframe present in the right side. Font Awesome icons have been used for visual appeal. 
+https://sou-chat-git.github.io/Frontend_Code_Editor/
